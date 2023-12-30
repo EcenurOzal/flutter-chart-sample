@@ -1,4 +1,5 @@
-# flutter_tech_task
+# flutter chart sample
 
 
-![Alt text]([image link](https://github.com/EcenurOzal/flutter-chart-sample/blob/main/screenshot.png)https://github.com/EcenurOzal/flutter-chart-sample/blob/main/screenshot.png)
+<img src="[(https://github.com/EcenurOzal/flutter-chart-sample/blob/main/screenshot.png)]">
+
